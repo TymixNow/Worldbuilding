@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "end-date": "checkbox",
+    "date": "text",
+    "new": "number",
+    "type": "number",
+    "test": "date",
+    "taxonomy": "text",
+    "AI": "checkbox"
+  }
+}
