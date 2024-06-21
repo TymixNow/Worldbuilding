@@ -1,9 +1,9 @@
 ---
 tags:
-  - climates/tundra
+  - climates/rainforest
   - date/24/25
   - taxonomy/plurpars/virids/colorovirids
 taxonomy: colorovirids
-primary-climate: tundra
+primary-climate: rainforest
 type: 0.5
 ---

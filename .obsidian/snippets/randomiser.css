@@ -1,5 +1,0 @@
-.random
-{
-    --seed: mod(calc(var(--seed) * 134775813 + 1), pow(2,32));
-    content: mod(var(--seed), var(--d));
-}

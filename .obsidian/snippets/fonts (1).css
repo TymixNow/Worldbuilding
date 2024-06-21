@@ -1,8 +1,0 @@
-@font-face {
-  font-family: MajorMono;
-  src: url("https://github.com/googlefonts/majormono/raw/master/fonts/MajorMonoDisplay-Regular.ttf");
-}
-
-body {
-  --inline-title-font: MajorMono;
-}

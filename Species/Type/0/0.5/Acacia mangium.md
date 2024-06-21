@@ -1,9 +1,9 @@
 ---
+type: 0.5
 tags:
-  - climates/tundra
+  - climates/savanna
   - date/24/25
   - taxonomy/plurpars/virids/colorovirids
 taxonomy: colorovirids
-primary-climate: tundra
-type: 0.5
+primary-climate: savanna-glowing
 ---

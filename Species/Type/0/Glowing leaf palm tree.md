@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Euterpe Lux
+  - Chamaerops Lux
 tags:
   - climates/mediterranean
   - climates/oceanic
