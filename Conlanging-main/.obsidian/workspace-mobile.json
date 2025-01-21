@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "6ace2dbed011dda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecece7f0ff1b85b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa53b32f2843f220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCR1/Evolution Timeline/06.-5c/Evolution step.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evolution step"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fffdd079e4e96e62",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "06086f9f56d321a3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ff50d95b904cc221",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d17918ef0d3d1ec1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "30c3f10b49fe7d59",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "06481652c0e047ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "36c91b87a40f95b1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "TCR1/Evolution Timeline/06.-5c/Evolution step.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2f6dfe262b5f0c79",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "80f98ba6d88f978c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "fa53b32f2843f220",
+  "lastOpenFiles": [
+    "TCR1/Evolution Timeline/06.-5c/Phonetics/Phonetics.md",
+    "TCR1/Evolution Timeline/06.-5c/Lexicon/Translation post-phonetics.md",
+    "TCR1/Evolution Timeline/06.-5c/Evolution step.md",
+    "TCR1/project_desc.md",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics/Phonotactics pre-phonetics.md",
+    "TCR1/Evolution Timeline/06.-5c/Grammar/Forms post-phonetics.md",
+    "TCR1/Evolution Timeline/06.-5c/Grammar/Forms pre-phonetics.md",
+    "TCR1/Evolution Timeline/06.-5c/Grammar/Forms 1.md",
+    "TCR1/Evolution Timeline/06.-5c/Grammar/Parts of speech.md",
+    "useful/TCR creation process.md",
+    "TCR1/Evolution Timeline/05.-6c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
+    "TCR1/Evolution Timeline/06.-5c/Lexicon",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics/Phonetics-pre.md",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics",
+    "TCR1/Evolution Timeline/06.-5c/Grammar",
+    "TCR1/Evolution Timeline/06.-5c",
+    "TCR1/Evolution Timeline/05.-6c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/05.-6c/Grammar/Forms.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics-post.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonotactics.md",
+    "TCR1/Evolution Timeline/04.-7c/Phonetics/Phonetics-post.md",
+    "TCR1/Todo",
+    "TCR1/Evolution Timeline/04.-7c/Phonetics/Phonetics-pre.md",
+    "TCR1/Evolution Timeline/04.-7c/Lexicon/Translation post-phonetics.md",
+    "TCR1/Evolution Timeline/04.-7c/Lexicon/Lexicon.md",
+    "TCR1/Evolution Timeline/05.-6c/Grammar",
+    "TCR1/Evolution Timeline/04.-7c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c/Lexicon",
+    "TCR1/Evolution Timeline/04.-7c/Lexicon/Translation pre-phonetics.md",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Translation.md",
+    "useful/TCR Tables.md",
+    "TCR1/Evolution Timeline/02.-9c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c",
+    "TCR1/Evolution Timeline/04.-7c/Untitled",
+    "TCR1/Evolution Timeline/03.-8c/Lexicon"
+  ]
+}

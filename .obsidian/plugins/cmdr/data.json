@@ -1,0 +1,115 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "package-plus",
+      "name": "Create from Template",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-calendar-plus-2",
+      "name": "Commander: Add to daily note",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-1",
+      "icon": "lucide-calendar-fold",
+      "name": "Commander: Open daily note aside",
+      "mode": "72cba3c8bca986fb"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "workspace:copy-path"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "daily-notes"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "editor:go-end"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "editor:insert-embed"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "editor:paste"
+        }
+      ],
+      "name": "Add to daily note",
+      "icon": "calendar",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "workspace:open-in-new-window"
+        },
+        {
+          "action": 0,
+          "commandId": "daily-notes"
+        }
+      ],
+      "name": "Open daily note aside",
+      "icon": "lucide-calendar-fold",
+      "startup": false
+    }
+  ],
+  "explorer": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "package-plus",
+      "name": "Create from template",
+      "mode": "any"
+    }
+  ],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 2,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

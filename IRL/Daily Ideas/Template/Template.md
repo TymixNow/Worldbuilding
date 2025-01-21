@@ -1,16 +1,17 @@
 
-#<%tp.date.now("[date/]gg[/]ww")%>
-#<%tp.date.now("[day-of-week/]ddd")%>
-Daily note of: <%tp.date.now("DD MMM YYYY [(]wo dddd [of the year)]")%>
+#date/25/04
+#day-of-week/Tue
+Daily note of: 21 Jan 2025 (4th Tuesday of the year)
 
 # Note from a month earlier:
-![[<%tp.date.now("DD.MM.YYYY","P-30D")%>#body ]]
+![[22.12.2024#body ]]
 
 # Note from a week earlier:
-![[<%tp.date.now("DD.MM.YYYY","P-7D")%>#body ]]
- << [[<%tp.date.now("DD.MM.YYYY",-1)%>]] prev - next [[<%tp.date.now("DD.MM.YYYY",1)%>]] >>
+![[14.01.2025#body ]]
+ << [[20.01.2025]] prev - next [[22.01.2025]] >>
 # Quote
 
-<% tp.web.daily_quote() %>
+> [!quote] Love is the flower you've got to let grow.
+> — John Lennon
 # Body
 

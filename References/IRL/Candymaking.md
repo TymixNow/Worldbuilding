@@ -2,7 +2,7 @@
 | Name          | T \[°C\]  | Heating      |
 | ------------- | --------- | ------------ |
 | Thread        | 106 - 112 | VI - VIS     |
-| Soft ball     | 112 - 155 | VIS - VIS+++ |
+| Soft ball     | 112 - 115 | VIS - VIS+++ |
 | Firm ball     | 115 - 121 | VIS+++ - VII |
 | Hard ball     | 121 - 130 | VII - VIIS   |
 | Soft crack    | 132 - 143 | VIIS - VIII  |

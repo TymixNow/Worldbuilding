@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+.ipa *
+{
+    font-family:'Times New Roman';
+=======
+.ipa > *
+{
+    --font-text: 'FiraSans-Medium', sans-serif;
+>>>>>>> b650026 (I'm back)
+}

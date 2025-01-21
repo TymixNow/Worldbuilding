@@ -2,10 +2,9 @@
 cssclasses: []
 ---
 # 1. Universe
-- [x] [[Plane Alignment|Cosmology]]
-- [x] [[General/Chemistry/Tables/Energy change chart|Chemistry]]
+- [x] [[../../../Old/Physics/Cosmology/Plane Alignment|Cosmology]]
+- [x] [[../../../Old/Tables/Energy change chart|Chemistry]]
 # 2. Life
-### 1. Type-0.5 (non-alchemical) and Type-0 (element obtaining) species (based on [[General/Chemistry/Tables/Energy change chart|#elements]], [[Definers/Taxonomy|#taxonomy]] & [[Climate|#climate]])
 ```dataview
 task from "General/Chemistry/Tables/Obtaining chart.md"
 ```
@@ -41,7 +40,27 @@ task from "General/Chemistry/Tables/Obtaining chart.md"
     - [x] #climates/rainforest
     - [x] #climates/savanna
     - [x] #climates/tundra
-### 2. Type-1 (element using, herbivorous) species (based on Type-1 species, [[General/Chemistry/Tables/Energy change chart|Elements]], [[Definers/Taxonomy|Taxonomy]] & [[Definers/Climate|Climate]])
-### 3. Type-2 (element using, carnivorous, omnivorous) species (based on [[../../../General/Chemistry/Tables/Energy change chart|Elements]], [[../../../Definers/Taxonomy|Taxonomy]], [[../../../Definers/Climate|Climate]] & type-1 species)
+    - [ ] 
+
+### 1. Type-0.5 (non-alchemical) and Type-0 (element obtaining) species (based on [[../../../Old/Tables/Energy change chart|#elements]], [[Definers/Taxonomy|#taxonomy]] & [[../../../Definers/Climate|#climate]])
+```dataview
+table taxonomy, choice(default(AI, false), "Y", "n") as "AI", primary-climate
+from "Species/Type/0" and !"Species/Type/0/0.5"
+sort primary-climate, AI, taxonomy
+```
+
+```dataview
+table taxonomy, choice(default(AI, false), "Y", "n") as "AI", primary-climate
+from "Species/Type/0/0.5"
+sort primary-climate, AI, taxonomy
+```
+
+### 2. Type-1 (element using, herbivorous) species (based on Type-1 species, [[../../../Old/Tables/Energy change chart|Elements]], [[Definers/Taxonomy|Taxonomy]] & [[Definers/Climate|Climate]])
+```dataview
+table taxonomy, choice(default(AI, false), "Y", "n") as "AI", primary-climate, prime
+from "Species/Type/1"
+sort type, primary-climate, AI, taxonomy
+```
+### 3. Type-2 (element using, carnivorous, omnivorous) species (based on [[../../../Old/Tables/Energy change chart|Elements]], [[../../../Definers/Taxonomy|Taxonomy]], [[../../../Definers/Climate|Climate]] & type-1 species)
 ### 4. Type-3 (intelligent) species (based on Type-2 species,[[Definers/Taxonomy|Taxonomy]] & [[Definers/Climate|Climate]])
 ### 5. Type-3.5 (cultural) species
