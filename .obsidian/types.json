@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "end-date": "text",
+    "date": "text",
+    "new": "number",
+    "type": "number",
+    "test": "date",
+    "taxonomy": "text",
+    "AI": "checkbox",
+    "reAI": "checkbox",
+    "ingredient": "multitext",
+    "ingredients": "multitext",
+    "title": "text"
+  }
+}

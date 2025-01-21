@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "77fb82acc18207ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a542ffa3a223fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabd95a1847686d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a9cfc4713337a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8489702587485004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f590df61031b21fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dcea467d40e57947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fcb1b0afe4020387",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "5db68b0bf8ac3168",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c29c1eac4994179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a14e18b6db8bd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Counters/Species.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Species"
+            }
+          },
+          {
+            "id": "5ed148f7071f5b80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Counters/Species.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Species"
+            }
+          },
+          {
+            "id": "f364b30bbbaaf1f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee7d1d1586d4eeaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Counters/Species.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Species"
+            }
+          },
+          {
+            "id": "b8ef1ecb1faedfba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "05789fb756d21d57",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4274f217b2ab88f5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "eabd95a1847686d5",
+  "lastOpenFiles": [
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1. Cosmology.md",
+    "Worldbuilding/1. Science/1.1. Cosmology",
+    "Worldbuilding/0. Concepts/0.Z General.md",
+    "Worldbuilding/0. Concepts/0.C Systems.canvas",
+    "Worldbuilding/0. Concepts/0.B Progression.canvas",
+    "Worldbuilding/0. Concepts/0.A Artes.md",
+    "Worldbuilding/1. Science",
+    "Worldbuilding/0. Concepts",
+    "Worldbuilding",
+    "Timelines/Worldbuilding/1. Science/1.1. Cosmology/1.1. Cosmology.md",
+    "Timelines/Worldbuilding/1. Science/1.1. Cosmology",
+    "Timelines/Worldbuilding/0. Concepts/0.Z General.md",
+    "Timelines/Worldbuilding/0. Concepts/0.C Systems.canvas",
+    "Timelines/Worldbuilding/0. Concepts/0.B Progression.canvas",
+    "Timelines/Worldbuilding/0. Concepts/0.A Artes.md",
+    "Timelines/Worldbuilding/1. Science",
+    "Timelines/Worldbuilding/0. Concepts",
+    "Timelines/Worldbuilding",
+    "Worldbuilding/1. Science/1.1. Cosmology/Untitled.md",
+    "Worldbuilding/0. Concepts/Systems.canvas",
+    "Worldbuilding/0. Concepts/O.B Progression.canvas",
+    "Worldbuilding/0. Concepts/0.0. General.md",
+    "Worldbuilding/0. Concepts/Artes.md",
+    "Worldbuilding/1. Science/Untitled",
+    "Worldbuilding/0. Concepts/General.md",
+    "IRL/Daily Ideas/21.01.2025.md",
+    "Old/Physics/Cosmology/Plane Alignment.png",
+    "Old/Physics/Cosmology/Plane Alignment.md",
+    "Old/Physics/Laws.md",
+    "Old/Physics/Cosmology",
+    "Old/Tables/Element property chart.md",
+    "Old/Tables/Energy change chart.md",
+    "Old/Tables/Obtaining chart.md",
+    "Old/Groups/Ascendents.md",
+    "Old/Groups/Descendents.md",
+    "Old/Groups/Felicials.md",
+    "Old/Groups/Luxials.md",
+    "Old/Groups/Ortia.md",
+    "Old/Groups/Reactives.md",
+    "Old/Groups/Tenebrials.md",
+    "References/WBKit/0 General/0.0 Abstract/Concepts.md",
+    "Templates/Process.md",
+    "Worldbuilding/0. Concepts/Progression.canvas",
+    "General/Chemistry/Physics/Cosmology/Plane Alignment.png"
+  ]
+}

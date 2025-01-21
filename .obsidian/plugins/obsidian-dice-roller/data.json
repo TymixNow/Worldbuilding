@@ -1,0 +1,508 @@
+{
+  "position": "RIGHT",
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": true,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": true,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": false,
+  "scaler": 1,
+  "diceColor": "#7d7dff",
+  "textColor": "#ffffff",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "narrativeSymbolSet": "Genesys",
+  "displayAsSymbols": false,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    },
+    {
+      "text": "+",
+      "formula": "d2!i",
+      "shape": "Circle",
+      "id": "thousands-bashful-journalist"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "version": "11.4.1",
+  "viewResults": [
+    {
+      "result": 1,
+      "original": "d2",
+      "resultText": "[1]",
+      "timestamp": 1722355796808,
+      "id": "6est21JHq84J"
+    },
+    {
+      "result": 1,
+      "original": "d2",
+      "resultText": "[1]",
+      "timestamp": 1722355862621,
+      "id": "G-X5tIDpwBo-"
+    },
+    {
+      "result": 2,
+      "original": "1d6",
+      "resultText": "[2]",
+      "timestamp": 1722355880930,
+      "id": "HzHi4-U8DqzV"
+    },
+    {
+      "result": 2,
+      "original": "1d6",
+      "resultText": "[2]",
+      "timestamp": 1722355910575,
+      "id": "JxNeAcUS9EUl"
+    },
+    {
+      "result": 1,
+      "original": "1d6",
+      "resultText": "[1]",
+      "timestamp": 1722355922277,
+      "id": "1WBAoH8e_sxo"
+    },
+    {
+      "result": 3,
+      "original": "1d6",
+      "resultText": "[3]",
+      "timestamp": 1722355937317,
+      "id": "q18SPsLUvxmu"
+    },
+    {
+      "result": 2,
+      "original": "1d6",
+      "resultText": "[2]",
+      "timestamp": 1722355954382,
+      "id": "ozUccHbTPbfJ"
+    },
+    {
+      "result": 6,
+      "original": "1d6",
+      "resultText": "[6]",
+      "timestamp": 1722355962977,
+      "id": "9cm2rjqjSiZ8"
+    },
+    {
+      "result": 6,
+      "original": "1d6",
+      "resultText": "[6]",
+      "timestamp": 1722355991418,
+      "id": "qt_cFyTjPukJ"
+    },
+    {
+      "result": 4,
+      "original": "1d6",
+      "resultText": "[4]",
+      "timestamp": 1722356044533,
+      "id": "momzVLuGeozs"
+    },
+    {
+      "result": 3,
+      "original": "1d6",
+      "resultText": "[3]",
+      "timestamp": 1722356055765,
+      "id": "fFZXFbWMwu4l"
+    },
+    {
+      "result": 3,
+      "original": "1d6",
+      "resultText": "[3]",
+      "timestamp": 1722356097283,
+      "id": "oFCsHfcNg7SZ"
+    },
+    {
+      "result": 5,
+      "original": "1d6",
+      "resultText": "[5]",
+      "timestamp": 1722356104696,
+      "id": "N4-Kaqotcmfl"
+    },
+    {
+      "result": 3,
+      "original": "1d6",
+      "resultText": "[3]",
+      "timestamp": 1722356119019,
+      "id": "FSlRtxpfrG2U"
+    },
+    {
+      "result": 3,
+      "original": "1d10",
+      "resultText": "[3]",
+      "timestamp": 1722356162091,
+      "id": "lGtWuVk1Wgly"
+    },
+    {
+      "result": 8,
+      "original": "1d10",
+      "resultText": "[8]",
+      "timestamp": 1722356185774,
+      "id": "6Gqd-3HNX0CS"
+    },
+    {
+      "result": 7,
+      "original": "1d10",
+      "resultText": "[7]",
+      "timestamp": 1722356196027,
+      "id": "iY-koiRtpNhR"
+    },
+    {
+      "result": 4,
+      "original": "1d10",
+      "resultText": "[4]",
+      "timestamp": 1722356209738,
+      "id": "TjINln2TGs0D"
+    },
+    {
+      "result": 3,
+      "original": "1d10",
+      "resultText": "[3]",
+      "timestamp": 1722356231030,
+      "id": "JzGCY4_bUkVD"
+    },
+    {
+      "result": 7,
+      "original": "1d10",
+      "resultText": "[7]",
+      "timestamp": 1722356259668,
+      "id": "YV2Uf_uB-Tzb"
+    },
+    {
+      "result": 8,
+      "original": "1d10",
+      "resultText": "[8]",
+      "timestamp": 1722356273148,
+      "id": "ttuFWDtObzyy"
+    },
+    {
+      "result": 3,
+      "original": "1d4",
+      "resultText": "[3]",
+      "timestamp": 1722356313780,
+      "id": "ooYe5lEhn9KN"
+    },
+    {
+      "result": 2,
+      "original": "1d4",
+      "resultText": "[2]",
+      "timestamp": 1722356335980,
+      "id": "vMbnYeUEAueC"
+    },
+    {
+      "result": 5,
+      "original": "1d8",
+      "resultText": "[5]",
+      "timestamp": 1722356420671,
+      "id": "Pr3-EHx1ErWZ"
+    },
+    {
+      "result": 8,
+      "original": "1d8",
+      "resultText": "[8]",
+      "timestamp": 1722356443402,
+      "id": "PBlGohbBdQmZ"
+    },
+    {
+      "result": 20,
+      "original": "1d20",
+      "resultText": "[20]",
+      "timestamp": 1722356486928,
+      "id": "j777xLEaYql6"
+    },
+    {
+      "result": 7,
+      "original": "1d20",
+      "resultText": "[7]",
+      "timestamp": 1722356509047,
+      "id": "u7k7wH87Gc81"
+    },
+    {
+      "result": 3,
+      "original": "1d12",
+      "resultText": "[3]",
+      "timestamp": 1722356534967,
+      "id": "kePTVdJRZBmH"
+    },
+    {
+      "result": 5,
+      "original": "1d12",
+      "resultText": "[5]",
+      "timestamp": 1722356555969,
+      "id": "7u1BqpZmA_ZG"
+    },
+    {
+      "result": 4,
+      "original": "1d12",
+      "resultText": "[4]",
+      "timestamp": 1722356584713,
+      "id": "ng5hXMxRHZbM"
+    },
+    {
+      "result": 2,
+      "original": "1d12",
+      "resultText": "[2]",
+      "timestamp": 1722356621816,
+      "id": "-GcoGq4Ewbfv"
+    },
+    {
+      "result": 10,
+      "original": "1d12",
+      "resultText": "[10]",
+      "timestamp": 1722356630905,
+      "id": "4WxKAu_wzVC4"
+    },
+    {
+      "result": 11,
+      "original": "1d12",
+      "resultText": "[11]",
+      "timestamp": 1722356645413,
+      "id": "xY5LBDUlUo2c"
+    },
+    {
+      "result": 4,
+      "original": "1d12",
+      "resultText": "[4]",
+      "timestamp": 1722356653822,
+      "id": "Cl7zksVKnyCO"
+    },
+    {
+      "result": 5,
+      "original": "1d12",
+      "resultText": "[5]",
+      "timestamp": 1722356691920,
+      "id": "IOjFJHFMcrL9"
+    },
+    {
+      "result": 3,
+      "original": "1d12",
+      "resultText": "[3]",
+      "timestamp": 1722356713733,
+      "id": "EeIJP6Ix-BLR"
+    },
+    {
+      "result": 12,
+      "original": "1d12",
+      "resultText": "[12]",
+      "timestamp": 1722356729155,
+      "id": "BNxLWpaYVMZu"
+    },
+    {
+      "result": 2,
+      "original": "1d12",
+      "resultText": "[2]",
+      "timestamp": 1722356738812,
+      "id": "PGvWo6qyr9MU"
+    },
+    {
+      "result": 5,
+      "original": "1d12",
+      "resultText": "[5]",
+      "timestamp": 1722356748399,
+      "id": "bZvp3juYMc_8"
+    },
+    {
+      "result": 11,
+      "original": "1d12",
+      "resultText": "[11]",
+      "timestamp": 1722356761795,
+      "id": "QvIJF7SFgaMa"
+    },
+    {
+      "result": 11,
+      "original": "1d12",
+      "resultText": "[11]",
+      "timestamp": 1722356772395,
+      "id": "atgZZtOYIrIK"
+    },
+    {
+      "result": 11,
+      "original": "1d12",
+      "resultText": "[11]",
+      "timestamp": 1722356785030,
+      "id": "gZZxQTPg84fk"
+    },
+    {
+      "result": 8,
+      "original": "1d12",
+      "resultText": "[8]",
+      "timestamp": 1722356797264,
+      "id": "DuGOhBB2O7C0"
+    },
+    {
+      "result": 1,
+      "original": "1d12",
+      "resultText": "[1]",
+      "timestamp": 1722356804744,
+      "id": "iIM1kBww7Wec"
+    },
+    {
+      "result": 12,
+      "original": "1d12",
+      "resultText": "[12]",
+      "timestamp": 1722356816132,
+      "id": "WQt8sDeYs__y"
+    },
+    {
+      "result": 6,
+      "original": "1d12",
+      "resultText": "[6]",
+      "timestamp": 1722356895159,
+      "id": "RWXG95e3zvj1"
+    },
+    {
+      "result": 8,
+      "original": "1d12",
+      "resultText": "[8]",
+      "timestamp": 1722356908714,
+      "id": "8rESerssIgAi"
+    },
+    {
+      "result": 7,
+      "original": "1d12",
+      "resultText": "[7]",
+      "timestamp": 1722356941524,
+      "id": "_rvHJaWTc6ob"
+    },
+    {
+      "result": 9,
+      "original": "1d12",
+      "resultText": "[9]",
+      "timestamp": 1722356956757,
+      "id": "HY02RCEMuuCD"
+    },
+    {
+      "result": 4,
+      "original": "1d12",
+      "resultText": "[4]",
+      "timestamp": 1722356965489,
+      "id": "p58pnLhVpTKt"
+    },
+    {
+      "result": 12,
+      "original": "1d12",
+      "resultText": "[12]",
+      "timestamp": 1722356985414,
+      "id": "H_lg19nd_2at"
+    },
+    {
+      "result": 7,
+      "original": "1d12",
+      "resultText": "[7]",
+      "timestamp": 1722357015707,
+      "id": "sZ0tCg3szDCv"
+    },
+    {
+      "result": 7,
+      "original": "1d12",
+      "resultText": "[7]",
+      "timestamp": 1722357032954,
+      "id": "ifeYbG2TDVzp"
+    },
+    {
+      "result": 10,
+      "original": "1d12",
+      "resultText": "[10]",
+      "timestamp": 1722357050122,
+      "id": "5o4OGdcSrzk-"
+    },
+    {
+      "result": 1,
+      "original": "1d12",
+      "resultText": "[1]",
+      "timestamp": 1722357060733,
+      "id": "mnVOjBvjb60r"
+    },
+    {
+      "result": 4,
+      "original": "1d12",
+      "resultText": "[4]",
+      "timestamp": 1722357067467,
+      "id": "IdGOAAJoVLUl"
+    },
+    {
+      "result": 1,
+      "original": "1d12",
+      "resultText": "[1]",
+      "timestamp": 1722357075701,
+      "id": "qgLncI6zNhTs"
+    },
+    {
+      "result": 7,
+      "original": "1d12",
+      "resultText": "[7]",
+      "timestamp": 1722357082373,
+      "id": "Sjbp0e6qwzmK"
+    },
+    {
+      "result": 2,
+      "original": "1d12",
+      "resultText": "[2]",
+      "timestamp": 1722357088541,
+      "id": "zZO3sjL6-e0w"
+    },
+    {
+      "result": 9,
+      "original": "1d12",
+      "resultText": "[9]",
+      "timestamp": 1722357097091,
+      "id": "u2BGnDNCGxP8"
+    }
+  ],
+  "showDice": true
+}

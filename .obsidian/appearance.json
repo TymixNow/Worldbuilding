@@ -1,0 +1,18 @@
+{
+  "accentColor": "#36ba69",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "journal",
+    "AzeretMono-VariableFont_wght",
+    "FiraSans-Medium",
+    "JacquardaBastarda9-Regular",
+    "KodeMono-VariableFont_wght",
+    "MartianMono-VariableFont_wdth,wght",
+    "PlaywritePL-VariableFont_wght",
+    "ShadowsIntoLight-Regular"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
+}

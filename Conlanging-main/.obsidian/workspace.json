@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "d767200cd9dfa393",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f9c3d4db7fb868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55872227f9b9a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Translation post-phonetics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c24024b2d9c8ed25",
+    "type": "split",
+    "children": [
+      {
+        "id": "accc76a429ba3e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fbd5e26ace0639a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c9cbcbd4ab938989",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07b5937dd2809e31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b969cf49ca7aa435",
+    "type": "split",
+    "children": [
+      {
+        "id": "6228e3a75526adf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22a37a975a9caa89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "230837f7913d139f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3dc1f50cb140866d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30d824cf0ac6eeaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c55872227f9b9a8a",
+  "lastOpenFiles": [
+    "TCR1/Evolution Timeline/05.-6c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/05.-6c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
+    "TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
+    "useful/TCR creation process.md",
+    "TCR1/Evolution Timeline/06.-5c/Evolution step.md",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics/Phonotactics.md",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics/Phonetics-pre.md",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics/Phonetics-post.md",
+    "TCR1/Evolution Timeline/06.-5c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/06.-5c/Grammar/Forms.md",
+    "TCR1/Evolution Timeline/06.-5c/Phonetics",
+    "TCR1/Evolution Timeline/06.-5c/Lexicon",
+    "TCR1/Evolution Timeline/06.-5c/Grammar",
+    "TCR1/Evolution Timeline/06.-5c",
+    "useful/TCR Tables.md",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Translation.md",
+    "useful/Lexicon.md",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Lexicon.md",
+    "TCR1/Evolution Timeline/01.-10c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/05.-6c/Grammar/Forms.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phono-alphabet (sorting order).md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonotactics.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics-pre.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics-post.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics/Phonotactics.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics/Phono-alphabet (sorting order).md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics/Phonetics-pre.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics/Phonetics-post.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Lexicon/Translation pre-phonetics.md",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Lexicon",
+    "TCR1/Evolution Timeline/05.-6c/Phonetics/Grammar",
+    "TCR1/Evolution",
+    "TCR1/Evolution Timeline/01.-10c"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "style",
+    "theme-no-bg2",
+    "FiraSans-Medium",
+    "MartianMono-VariableFont_wdth,wght",
+    "KodeMono-VariableFont_wght"
+  ],
+  "accentColor": "#ffffff"
+}
