@@ -11,10 +11,15 @@
             "id": "eabd95a1847686d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IRL/Daily Ideas/22.01.2025.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "22.01.2025"
             }
           }
         ]
@@ -199,6 +204,7 @@
   },
   "active": "eabd95a1847686d5",
   "lastOpenFiles": [
+    "IRL/Daily Ideas/22.01.2025.md",
     "IRL/Tasks/Worldbuilding/World.md",
     "IRL/Tasks/Worldbuilding",
     "IRL/Tasks",
