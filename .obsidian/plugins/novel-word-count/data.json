@@ -76,6 +76,81 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "Worldbuilding/1. Science/1.2. Physics/1.2.1. Laws.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 54,
+      "nonWhitespaceCharacterCount": 43,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737992961505,
+      "modifiedDate": 1737992961807,
+      "sizeInBytes": 54,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 54,
+        "nonWhitespaceCharacterCount": 43
+      }
+    },
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1.2. Planes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 293,
+      "nonWhitespaceCharacterCount": 169,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737992961365,
+      "modifiedDate": 1737992961667,
+      "sizeInBytes": 293,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 293,
+        "nonWhitespaceCharacterCount": 169
+      }
+    },
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1.1. Hierarchy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 32,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 231,
+      "nonWhitespaceCharacterCount": 194,
+      "readingTimeInMinutes": 0.12075471698113208,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737992961289,
+      "modifiedDate": 1737992961596,
+      "sizeInBytes": 231,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10666666666666667,
+        "wordCount": 32,
+        "characterCount": 231,
+        "nonWhitespaceCharacterCount": 194
+      }
+    },
     "Worldbuilding/0. Concepts/0.Z General.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2550,31 +2625,6 @@
         "nonWhitespaceCharacterCount": 599
       }
     },
-    "IRL/Daily Ideas/27.01.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 55,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 384,
-      "nonWhitespaceCharacterCount": 311,
-      "readingTimeInMinutes": 0.20754716981132076,
-      "linkCount": 2,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1737992960591,
-      "modifiedDate": 1737992960977,
-      "sizeInBytes": 402,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.10666666666666667,
-        "wordCount": 32,
-        "characterCount": 422,
-        "nonWhitespaceCharacterCount": 373
-      }
-    },
     "IRL/Daily Ideas/Template/Template.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3275,6 +3325,31 @@
         "nonWhitespaceCharacterCount": 234
       }
     },
+    "IRL/Daily Ideas/27.01.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 53,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 361,
+      "nonWhitespaceCharacterCount": 290,
+      "readingTimeInMinutes": 0.2,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737992960591,
+      "modifiedDate": 1737992961725,
+      "sizeInBytes": 381,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17666666666666667,
+        "wordCount": 53,
+        "characterCount": 361,
+        "nonWhitespaceCharacterCount": 290
+      }
+    },
     "IRL/Daily Ideas/26.12.2024.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3423,6 +3498,31 @@
         "wordCount": 42,
         "characterCount": 299,
         "nonWhitespaceCharacterCount": 245
+      }
+    },
+    "IRL/Daily Ideas/26.01.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 356,
+      "nonWhitespaceCharacterCount": 283,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737992961635,
+      "modifiedDate": 1737992961938,
+      "sizeInBytes": 374,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18333333333333332,
+        "wordCount": 55,
+        "characterCount": 356,
+        "nonWhitespaceCharacterCount": 283
       }
     },
     "IRL/Daily Ideas/25.12.2024.md": {
@@ -3600,6 +3700,31 @@
         "nonWhitespaceCharacterCount": 312
       }
     },
+    "IRL/Daily Ideas/25.01.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 298,
+      "nonWhitespaceCharacterCount": 239,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737992961574,
+      "modifiedDate": 1737992961877,
+      "sizeInBytes": 316,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13666666666666666,
+        "wordCount": 41,
+        "characterCount": 298,
+        "nonWhitespaceCharacterCount": 239
+      }
+    },
     "IRL/Daily Ideas/24.11.2024.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3750,6 +3875,31 @@
         "nonWhitespaceCharacterCount": 305
       }
     },
+    "IRL/Daily Ideas/24.01.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 264,
+      "nonWhitespaceCharacterCount": 214,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737992961437,
+      "modifiedDate": 1737992961743,
+      "sizeInBytes": 280,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11666666666666667,
+        "wordCount": 35,
+        "characterCount": 264,
+        "nonWhitespaceCharacterCount": 214
+      }
+    },
     "IRL/Daily Ideas/23.11.2024.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3873,6 +4023,31 @@
         "wordCount": 35,
         "characterCount": 261,
         "nonWhitespaceCharacterCount": 214
+      }
+    },
+    "IRL/Daily Ideas/23.01.2025.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 360,
+      "nonWhitespaceCharacterCount": 288,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 2,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1737992961185,
+      "modifiedDate": 1737992961489,
+      "sizeInBytes": 378,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18,
+        "wordCount": 54,
+        "characterCount": 360,
+        "nonWhitespaceCharacterCount": 288
       }
     },
     "IRL/Daily Ideas/22.09.2024.md": {
@@ -8452,25 +8627,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 6,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 18,
-      "nonWhitespaceCharacterCount": 15,
-      "readingTimeInMinutes": 0.007547169811320755,
+      "pageCount": 0.02,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 52,
+      "readingTimeInMinutes": 0.022641509433962263,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742992,
-      "modifiedDate": 1737490742992,
-      "sizeInBytes": 126,
+      "modifiedDate": 1737986671064,
+      "sizeInBytes": 58,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.006666666666666667,
-        "wordCount": 2,
-        "characterCount": 18,
-        "nonWhitespaceCharacterCount": 15
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 58,
+        "nonWhitespaceCharacterCount": 52
       }
     },
     "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Phonetics/Phonetics.md": {
@@ -8481,20 +8656,20 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.25666666666666665,
-      "characterCount": 759,
+      "characterCount": 760,
       "nonWhitespaceCharacterCount": 289,
       "readingTimeInMinutes": 0.29056603773584905,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742992,
-      "modifiedDate": 1737490742992,
-      "sizeInBytes": 792,
+      "modifiedDate": 1737985110596,
+      "sizeInBytes": 793,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.25666666666666665,
         "wordCount": 77,
-        "characterCount": 759,
+        "characterCount": 760,
         "nonWhitespaceCharacterCount": 289
       },
       "frontmatter": {
@@ -8518,14 +8693,14 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742991,
-      "modifiedDate": 1737988444576,
+      "modifiedDate": 1737996291911,
       "sizeInBytes": 13767,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.71,
-        "wordCount": 513,
-        "characterCount": 12508,
-        "nonWhitespaceCharacterCount": 3821
+        "pageCount": 1.9666666666666666,
+        "wordCount": 590,
+        "characterCount": 13766,
+        "nonWhitespaceCharacterCount": 4449
       }
     },
     "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Grammar/Parts of speech.md": {
@@ -8582,50 +8757,50 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 41,
+      "wordCount": 44,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 579,
-      "nonWhitespaceCharacterCount": 202,
-      "readingTimeInMinutes": 0.15471698113207547,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 477,
+      "nonWhitespaceCharacterCount": 166,
+      "readingTimeInMinutes": 0.1660377358490566,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742991,
-      "modifiedDate": 1737490742991,
-      "sizeInBytes": 579,
+      "modifiedDate": 1737985348316,
+      "sizeInBytes": 477,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.13666666666666666,
-        "wordCount": 41,
-        "characterCount": 579,
-        "nonWhitespaceCharacterCount": 202
+        "pageCount": 0.14666666666666667,
+        "wordCount": 44,
+        "characterCount": 477,
+        "nonWhitespaceCharacterCount": 166
       }
     },
     "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Evolution step.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 26,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 343,
-      "nonWhitespaceCharacterCount": 225,
-      "readingTimeInMinutes": 0.09056603773584905,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 356,
+      "nonWhitespaceCharacterCount": 233,
+      "readingTimeInMinutes": 0.09811320754716982,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742991,
-      "modifiedDate": 1737490742991,
-      "sizeInBytes": 477,
+      "modifiedDate": 1737986899616,
+      "sizeInBytes": 548,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.08,
-        "wordCount": 24,
-        "characterCount": 343,
-        "nonWhitespaceCharacterCount": 225
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 356,
+        "nonWhitespaceCharacterCount": 233
       }
     },
     "Conlanging-main/TCR1/Evolution Timeline/05.-6c/Phonetics/Phonotactics.md": {
@@ -8674,8 +8849,8 @@
         "noteCount": 1,
         "pageCount": 0.25666666666666665,
         "wordCount": 77,
-        "characterCount": 718,
-        "nonWhitespaceCharacterCount": 294
+        "characterCount": 761,
+        "nonWhitespaceCharacterCount": 288
       },
       "frontmatter": {
         "cssclasses": [
@@ -8704,7 +8879,7 @@
         "noteCount": 1,
         "pageCount": 0.25666666666666665,
         "wordCount": 77,
-        "characterCount": 759,
+        "characterCount": 760,
         "nonWhitespaceCharacterCount": 289
       },
       "frontmatter": {
@@ -8859,8 +9034,8 @@
         "noteCount": 1,
         "pageCount": 0.25666666666666665,
         "wordCount": 77,
-        "characterCount": 718,
-        "nonWhitespaceCharacterCount": 294
+        "characterCount": 760,
+        "nonWhitespaceCharacterCount": 288
       },
       "frontmatter": {
         "cssclasses": [
@@ -8876,21 +9051,21 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.25666666666666665,
-      "characterCount": 718,
-      "nonWhitespaceCharacterCount": 294,
+      "characterCount": 760,
+      "nonWhitespaceCharacterCount": 288,
       "readingTimeInMinutes": 0.29056603773584905,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742990,
-      "modifiedDate": 1737490742990,
-      "sizeInBytes": 751,
+      "modifiedDate": 1737985133776,
+      "sizeInBytes": 793,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.25666666666666665,
         "wordCount": 77,
-        "characterCount": 718,
-        "nonWhitespaceCharacterCount": 294
+        "characterCount": 760,
+        "nonWhitespaceCharacterCount": 288
       },
       "frontmatter": {
         "cssclasses": [
@@ -9211,21 +9386,21 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.25,
-      "characterCount": 632,
-      "nonWhitespaceCharacterCount": 275,
+      "characterCount": 674,
+      "nonWhitespaceCharacterCount": 269,
       "readingTimeInMinutes": 0.2830188679245283,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737490742989,
-      "modifiedDate": 1737490742989,
-      "sizeInBytes": 663,
+      "modifiedDate": 1737985169992,
+      "sizeInBytes": 705,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.25,
         "wordCount": 75,
-        "characterCount": 632,
-        "nonWhitespaceCharacterCount": 275
+        "characterCount": 674,
+        "nonWhitespaceCharacterCount": 269
       },
       "frontmatter": {
         "cssclasses": [
@@ -9488,173 +9663,173 @@
         "nonWhitespaceCharacterCount": 8
       }
     },
-    "IRL/Daily Ideas/23.01.2025.md": {
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Parts of speech.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 54,
+      "wordCount": 45,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 360,
-      "nonWhitespaceCharacterCount": 288,
-      "readingTimeInMinutes": 0.2037735849056604,
+      "pageCount": 0.15,
+      "characterCount": 374,
+      "nonWhitespaceCharacterCount": 279,
+      "readingTimeInMinutes": 0.16981132075471697,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737992961185,
-      "modifiedDate": 1737642692551,
-      "sizeInBytes": 378,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Worldbuilding/1. Science/1.1. Cosmology/1.1.1. Hierarchy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 32,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 231,
-      "nonWhitespaceCharacterCount": 194,
-      "readingTimeInMinutes": 0.12075471698113208,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737992961289,
-      "modifiedDate": 1737642939803,
-      "sizeInBytes": 231,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Worldbuilding/1. Science/1.1. Cosmology/1.1.2. Planes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 293,
-      "nonWhitespaceCharacterCount": 169,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737992961365,
-      "modifiedDate": 1737992961667,
-      "sizeInBytes": 293,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "IRL/Daily Ideas/24.01.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 35,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 264,
-      "nonWhitespaceCharacterCount": 214,
-      "readingTimeInMinutes": 0.1320754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737992961437,
-      "modifiedDate": 1737701683780,
-      "sizeInBytes": 280,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Worldbuilding/1. Science/1.2. Physics/1.2.1. Laws.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 54,
-      "nonWhitespaceCharacterCount": 43,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737992961505,
-      "modifiedDate": 1737720036901,
-      "sizeInBytes": 54,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "IRL/Daily Ideas/25.01.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 41,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 298,
-      "nonWhitespaceCharacterCount": 239,
-      "readingTimeInMinutes": 0.15471698113207547,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737992961574,
-      "modifiedDate": 1737799690123,
-      "sizeInBytes": 316,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "IRL/Daily Ideas/26.01.2025.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 55,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 356,
-      "nonWhitespaceCharacterCount": 283,
-      "readingTimeInMinutes": 0.20754716981132076,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737992961635,
-      "modifiedDate": 1737887754508,
+      "createdDate": 1737993410571,
+      "modifiedDate": 1737993410896,
       "sizeInBytes": 374,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Phonetics/Phonetics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 79,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 787,
+      "nonWhitespaceCharacterCount": 310,
+      "readingTimeInMinutes": 0.2981132075471698,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737993422380,
+      "modifiedDate": 1737993422688,
+      "sizeInBytes": 793,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Phonetics/Phonotactics pre-phonetics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 58,
+      "nonWhitespaceCharacterCount": 52,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737993422381,
+      "modifiedDate": 1737993422689,
+      "sizeInBytes": 58,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Lexicon/Translation post-phonetics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 513,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.71,
+      "characterCount": 12286,
+      "nonWhitespaceCharacterCount": 3712,
+      "readingTimeInMinutes": 1.9358490566037736,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737993416597,
+      "modifiedDate": 1737996821188,
+      "sizeInBytes": 12287,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Evolution Step.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 13,
+      "nonWhitespaceCharacterCount": 11,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737993459542,
+      "modifiedDate": 1737993505696,
+      "sizeInBytes": 13,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Forms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 743,
+      "nonWhitespaceCharacterCount": 472,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737993410570,
+      "modifiedDate": 1737996384788,
+      "sizeInBytes": 743,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Inflection.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 142,
+      "nonWhitespaceCharacterCount": 103,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737995986884,
+      "modifiedDate": 1737996214882,
+      "sizeInBytes": 161,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

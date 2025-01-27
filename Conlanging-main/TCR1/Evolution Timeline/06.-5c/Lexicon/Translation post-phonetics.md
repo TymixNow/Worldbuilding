@@ -4,7 +4,7 @@
 | -------------- | ------- | ------------------- | --------------- | ------------------ | --------------- | ---------------- | --------------- | -------------- | --------------------- |
 | s2t3k          | s@k2t3k | Unit (grain, piece) | Unit (measure ) | Child              | Adult           | Tiny             | Shrink          | small/little   | a little              |
 | 2tt3k          | k2t@t3k | Victory             | -               | Winner             | -               | Winning          | Be a winner     | win            | -                     |
-| 2d2d3r         | k2d2d3h | Loss                | -               | Loser              | -               | Losing           | Be a loser      | lose           | -                     |
+| 2d2d3r         | k2d2d3r | Loss                | -               | Loser              | -               | Losing           | Be a loser      | lose           | -                     |
 | s2s3k          | s@k2s3k | Suffering           | Injury          | -                  | Disabled person | Hurtful          | Hurt            | pain           | -                     |
 | s2s3j          | s@k2s3j | Happiness           | Good memories   | Happy one          | -               | Joyful           | Be happy        | happy          | Happily               |
 | s2t3r          | s@k2t3r | Ear                 | -               | Listener           | -               | Hearing          | Listen          | hear (a sound) | reportedly            |
