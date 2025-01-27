@@ -1,11 +1,18 @@
 # null prefix
 ```sound_change
-CV > sVCV \#_CVC#
-CV > sVCV \#_CV#
+CV > sVCV \#_ (2C)
+V > sV \#_ (2C)
+```
+# 4CR > TCR
+```IRREGULAR
+remove:
+haplology
+repeated
+haplology-like
 ```
 # Inflection 
 ```morpheme
-k2*
+ka*
 ```
 
 | Part of speech | u         | o       | a        | i        | e        | uy        |

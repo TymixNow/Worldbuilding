@@ -7,8 +7,8 @@ cssclasses:
 | --- | --- | --- | --- | --- | --- |
 | N   | m   | n   |     |     |     |
 | P   | p b | t d |     | k g | ʔ   |
-| F   | f v | s z |     | x ɣ  |   |
-| W   |     |     | y   |     |     |
+| F   | f v | s z |     | x ɣ |     |
+| W   |     |     | j   |     |     |
 | L   |     | ɬ l |     |     |     |
 
 |     | I   | U   |
@@ -23,7 +23,7 @@ cssclasses:
 | N   | m   | n   |     |     |     |
 | P   | p b | t d |     | k g | '   |
 | F   | f v | s z |     | h r |     |
-| W   |     |     | y   |     |     |
+| W   |     |     | j   |     |     |
 | L   |     | x l |     |     |     |
 
 |     | I   | U   |
