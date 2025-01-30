@@ -642,3 +642,6 @@
 | win                      | ittik   |
 | work                     | @l@k@l  |
 | write                    |         |
+| to be #todo              | kehi    |
+| many #todo               | klesax  |
+| have #todo               | haral   |

@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Lexicon/Translation post-phonetics.md",
+                "file": "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Grammar/Irregular words.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Translation post-phonetics"
+              "title": "Irregular words"
+            }
+          },
+          {
+            "id": "b1cb79623c8a1135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRL/Daily Ideas/30.01.2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "30.01.2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 474.5
   },
   "right": {
     "id": "5db68b0bf8ac3168",
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counters/Species.md",
+                "file": "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Grammar/Irregular words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Species"
+              "title": "Backlinks for Irregular words"
             }
           },
           {
@@ -113,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counters/Species.md",
+                "file": "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Grammar/Irregular words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Species"
+              "title": "Outgoing links from Irregular words"
             }
           },
           {
@@ -140,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counters/Species.md"
+                "file": "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Grammar/Irregular words.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Species"
+              "title": "Outline of Irregular words"
             }
           },
           {
@@ -180,11 +197,12 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -202,44 +220,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eabd95a1847686d5",
+  "active": "b1cb79623c8a1135",
   "lastOpenFiles": [
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Forms.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Lexicon/Translation post-phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Lexicon/Translation post-phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Grammar/Forms post-phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Inflection.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Parts of speech.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar/Forms pre-phonetics.md",
+    "Conlanging-main/TCR1/Evolution Timeline/02.-9c/Evolution step.md",
+    "Conlanging-main/TCR1/Evolution Timeline/03.-8c/Evolution step.md",
+    "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Grammar/Irregular words.md",
+    "Conlanging-main/TCR1/Evolution Timeline/02.-9c/Grammar/Irregular words.md",
+    "Conlanging-main/TCR1/Evolution Timeline/03.-8c/Grammar/Parts of speech.md",
+    "Conlanging-main/TCR1/Evolution Timeline/03.-8c/Grammar/Irregular words.md",
+    "Conlanging-main/TCR1/Evolution Timeline/02.-9c/Grammar/Parts of speech.md",
+    "Conlanging-main/TCR1/Evolution Timeline/04.-7c/Grammar/Irregular words.md",
+    "Conlanging-main/TCR1/Evolution Timeline/04.-7c/Evolution step.md",
+    "Conlanging-main/TCR1/Evolution Timeline/04.-7c/Grammar/Parts of speech pre-phonetics.md",
+    "Conlanging-main/TCR1/Evolution Timeline/04.-7c/Grammar/Parts of speech post-phonetics.md",
+    "Conlanging-main/TCR1/Evolution Timeline/05.-6c/Evolution step.md",
+    "Conlanging-main/TCR1/Evolution Timeline/05.-6c/Grammar/Irregular words.md",
+    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Evolution step.md",
+    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Grammar/Common words.md",
     "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Evolution Step.md",
-    "Conlanging-main/useful/TCR creation process.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Phonetics/Phonotactics pre-phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Phonetics/Phonetics.md",
+    "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Lexicon/Lexicon.md",
+    "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Lexicon/Translation post-phonetics.md",
+    "IRL/Daily Ideas/13.04.2024.md",
+    "General/Chemistry/Groups/Descendents.md",
+    "Old/Species/Type/0/Phoenix Acacia.md",
+    "Old/Groups/Tenebrials.md",
+    "IRL/Daily Ideas/21.07.2024.md",
+    "Timelines/Terra.md",
+    "IRL/Daily Ideas/30.01.2025.md",
+    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Grammar/Word order.md",
+    "Worldbuilding/1. Science/1.3. Chemistry",
     "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Phonetics",
     "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Lexicon",
     "Conlanging-main/TCR1/Evolution Timeline/07.-4c/Grammar",
     "Conlanging-main/TCR1/Evolution Timeline/07.-4c",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Phonetics/Phonotactics pre-phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Phonetics/Phonetics.md",
     "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Phonetics",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Lexicon/Translation post-phonetics.md",
     "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Lexicon",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Grammar/Parts of speech.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Grammar/Forms pre-phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Grammar/Forms post-phonetics.md",
     "Conlanging-main/TCR1/Evolution Timeline/07.-6c/Grammar",
     "Conlanging-main/TCR1/Evolution Timeline/07.-6c",
     "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Untitled",
-    "Conlanging-main/TCR1/project_desc.md",
-    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Evolution step.md",
-    "IRL/Daily Ideas/27.01.2025.md",
-    "Conlanging-main/TCR1/Evolution Timeline/06.-5c/Phonetics/Phonetics.md",
-    "Conlanging-main/TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics-pre.md",
-    "Conlanging-main/TCR1/Evolution Timeline/05.-6c/Phonetics/Phonetics-post.md",
-    "Conlanging-main/TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
-    "IRL/Daily Ideas/26.01.2025.md",
-    "IRL/Daily Ideas/25.01.2025.md",
-    "Worldbuilding/1. Science/1.2. Physics",
     "Worldbuilding/0. Concepts/0.C Systems.canvas",
     "Worldbuilding/0. Concepts/0.B Progression.canvas",
     "Timelines/Worldbuilding/0. Concepts/0.C Systems.canvas",

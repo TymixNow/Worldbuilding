@@ -19,7 +19,17 @@ a[h|l|x] > ay \_#
 a[voiced, not y] > ag \_#
 a[voiceless] > ak \_#
 ```
-# [[TCR1/Evolution Timeline/02.-9c/Grammar/Parts of speech|Parts of speech]]
+
+|                 | Nouns | Descriptors |
+| --------------- | ----- | ----------- |
+| Ultimate vowel  | a     | i           |
+# Word formation
+
+|     | *a_  | *i_  |
+| --- | ---- | ---- |
+| N   | *a_a | *i_a |
+| D   | *a_i | *i_i |
+
 In nouns 
 ```sound_change
 V > a \_C#

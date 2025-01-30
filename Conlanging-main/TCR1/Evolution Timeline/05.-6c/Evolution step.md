@@ -12,9 +12,9 @@
 *ra
 ```
 
-| Part of speech | *u                     | *o   | *a                                 | *i                        | *e                         |
-| -------------- | ---------------------- | ---- | ---------------------------------- | ------------------------- | -------------------------- |
-| Effect         | Past participle adverb | Past | ex / broken down / what once was a | Past participle adjective | ex / late / retired / etc. |
+| Part of speech | *u                     | *o   | *a                                  | *i                        | *e                     |
+| -------------- | ---------------------- | ---- | ----------------------------------- | ------------------------- | ---------------------- |
+| Effect         | Past participle adverb | Past | #todo opposite / the one that has a | Past participle adjective | #todo owner / opposite |
 
 ## Metathesis
 ```sound_change
