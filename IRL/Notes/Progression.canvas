@@ -1,0 +1,592 @@
+{
+  "edges": [
+    {
+      "fromNode": "bd11483e19d23020",
+      "fromSide": "bottom",
+      "id": "befbb3be0c5123d1",
+      "label": "?",
+      "styleAttributes": {
+      },
+      "toNode": "e2795f260276268f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e2795f260276268f",
+      "fromSide": "bottom",
+      "id": "be167cf082a36821",
+      "label": "Wood",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "7e6c97728e680a20",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7e6c97728e680a20",
+      "fromSide": "bottom",
+      "id": "e2c321f6b3f23dbb",
+      "label": "Rope",
+      "styleAttributes": {
+      },
+      "toNode": "6be7ee840dfbaebf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6be7ee840dfbaebf",
+      "fromSide": "bottom",
+      "id": "76464c91b52836e1",
+      "label": "Rock",
+      "styleAttributes": {
+      },
+      "toNode": "22a0a114ea03749b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "36d790a1ef6cbbf3",
+      "fromSide": "bottom",
+      "id": "2a421ba5de633bf8",
+      "label": "Leather",
+      "styleAttributes": {
+      },
+      "toNode": "7d1e08f11cd8bcbb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e2795f260276268f",
+      "fromSide": "bottom",
+      "id": "a9469db3354119d2",
+      "label": "Leather",
+      "styleAttributes": {
+      },
+      "toNode": "36d790a1ef6cbbf3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7d1e08f11cd8bcbb",
+      "fromSide": "bottom",
+      "id": "14e1c8685574e9fc",
+      "label": "Rock",
+      "styleAttributes": {
+      },
+      "toNode": "def658d1924946f3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "22a0a114ea03749b",
+      "fromSide": "bottom",
+      "id": "6d072b08a656f41f",
+      "styleAttributes": {
+      },
+      "toNode": "123858c81b282898",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "def658d1924946f3",
+      "fromSide": "bottom",
+      "id": "60cdc2e1f74a6d2d",
+      "styleAttributes": {
+      },
+      "toNode": "123858c81b282898",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "123858c81b282898",
+      "fromSide": "bottom",
+      "id": "503f1bc4e3381075",
+      "styleAttributes": {
+      },
+      "toNode": "1709a4e0c7a97ff5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "327f69d0a16f4774",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "23245a6ef12f8150",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "9f8bb06272283a54",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "fecddda3b67fdfad",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "fe68b9d94924f6e9",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "4b55e9b059324829",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "9b80338708eec83c",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "4112fea0ca0a34bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "23245a6ef12f8150",
+      "fromSide": "bottom",
+      "id": "905d2486aa93d36d",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "660435c8d1c0484c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fecddda3b67fdfad",
+      "fromSide": "bottom",
+      "id": "4924dfb07e60a775",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "660435c8d1c0484c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "bb99439d41ede576",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "c2e50bfaf06b03da",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4112fea0ca0a34bf",
+      "fromSide": "bottom",
+      "id": "ac22fe67d1cb6016",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "8d515cd293133d7a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c2e50bfaf06b03da",
+      "fromSide": "bottom",
+      "id": "66857a9f2bc0313a",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "8d515cd293133d7a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "660435c8d1c0484c",
+      "fromSide": "bottom",
+      "id": "2dcb7189e455fa25",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "7f15ff7a80bd8d39",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8d515cd293133d7a",
+      "fromSide": "bottom",
+      "id": "e2ed8331e9c4e2ef",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "7f15ff7a80bd8d39",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7f15ff7a80bd8d39",
+      "fromSide": "bottom",
+      "id": "e40fe7369c5c23b2",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "94a25d627ed26ae5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4b55e9b059324829",
+      "fromSide": "bottom",
+      "id": "10b69053c5f6bb29",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "94a25d627ed26ae5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "4db06c83ee7f468c",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "11aaf7b8912444e4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4b55e9b059324829",
+      "fromSide": "bottom",
+      "id": "bdbb1ffacc832b66",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "12e595f586bb06eb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "11aaf7b8912444e4",
+      "fromSide": "bottom",
+      "id": "9e8a357cd76b3854",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "12e595f586bb06eb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1709a4e0c7a97ff5",
+      "fromSide": "bottom",
+      "id": "21a3f09b4756db77",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "f274a2eb3a7655d9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8d515cd293133d7a",
+      "fromSide": "bottom",
+      "id": "0d70eb31e721e0b1",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "32c183fe03cfe2ff",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "12e595f586bb06eb",
+      "fromSide": "bottom",
+      "id": "41cdd1920846a287",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "32c183fe03cfe2ff",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f274a2eb3a7655d9",
+      "fromSide": "bottom",
+      "id": "2616947971804dab",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "32c183fe03cfe2ff",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "94a25d627ed26ae5",
+      "fromSide": "bottom",
+      "id": "7d9699454e9e3a58",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "93b6e8ece2b0bf3e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32c183fe03cfe2ff",
+      "fromSide": "bottom",
+      "id": "11727f53daca8b0e",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "toNode": "93b6e8ece2b0bf3e",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 100,
+      "id": "bd11483e19d23020",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "# ?",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "e2795f260276268f",
+      "styleAttributes": {
+      },
+      "text": "Tools",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "7e6c97728e680a20",
+      "styleAttributes": {
+      },
+      "text": "Automation ",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "6be7ee840dfbaebf",
+      "styleAttributes": {
+      },
+      "text": "Transport ",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "22a0a114ea03749b",
+      "styleAttributes": {
+      },
+      "text": "Crushing",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "36d790a1ef6cbbf3",
+      "styleAttributes": {
+      },
+      "text": "Watering ",
+      "type": "text",
+      "width": 260,
+      "x": 260,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "7d1e08f11cd8bcbb",
+      "styleAttributes": {
+      },
+      "text": "Pumping",
+      "type": "text",
+      "width": 260,
+      "x": 260,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "def658d1924946f3",
+      "styleAttributes": {
+      },
+      "text": "Cooking",
+      "type": "text",
+      "width": 260,
+      "x": 260,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "123858c81b282898",
+      "styleAttributes": {
+      },
+      "text": "Forging",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 660
+    },
+    {
+      "height": 100,
+      "id": "1709a4e0c7a97ff5",
+      "styleAttributes": {
+      },
+      "text": "# ?\n",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "23245a6ef12f8150",
+      "styleAttributes": {
+      },
+      "text": "Gold",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "fecddda3b67fdfad",
+      "styleAttributes": {
+      },
+      "text": "Aqua Regia",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "660435c8d1c0484c",
+      "styleAttributes": {
+      },
+      "text": "Gold Salts",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 1200
+    },
+    {
+      "height": 60,
+      "id": "4112fea0ca0a34bf",
+      "styleAttributes": {
+      },
+      "text": "Quartz",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "c2e50bfaf06b03da",
+      "styleAttributes": {
+      },
+      "text": "Limestone",
+      "type": "text",
+      "width": 260,
+      "x": 760,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "8d515cd293133d7a",
+      "styleAttributes": {
+      },
+      "text": "Glass",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": 1200
+    },
+    {
+      "height": 60,
+      "id": "7f15ff7a80bd8d39",
+      "styleAttributes": {
+      },
+      "text": "Cranberry Glass",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 1360
+    },
+    {
+      "height": 60,
+      "id": "4b55e9b059324829",
+      "styleAttributes": {
+      },
+      "text": "Copper",
+      "type": "text",
+      "width": 260,
+      "x": 1020,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "94a25d627ed26ae5",
+      "styleAttributes": {
+      },
+      "text": "Diode",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "11aaf7b8912444e4",
+      "styleAttributes": {
+      },
+      "text": "Zinc",
+      "type": "text",
+      "width": 260,
+      "x": 1280,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "12e595f586bb06eb",
+      "styleAttributes": {
+      },
+      "text": "Brass",
+      "type": "text",
+      "width": 260,
+      "x": 1020,
+      "y": 1200
+    },
+    {
+      "height": 80,
+      "id": "f274a2eb3a7655d9",
+      "styleAttributes": {
+      },
+      "text": "#### ?: Maginet",
+      "type": "text",
+      "width": 260,
+      "x": 1560,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "32c183fe03cfe2ff",
+      "styleAttributes": {
+      },
+      "text": "Generator",
+      "type": "text",
+      "width": 260,
+      "x": 500,
+      "y": 1360
+    },
+    {
+      "height": 60,
+      "id": "93b6e8ece2b0bf3e",
+      "styleAttributes": {
+      },
+      "text": "Fumes",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 1640
+    }
+  ]
+}
