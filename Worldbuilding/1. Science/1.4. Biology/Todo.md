@@ -1,0 +1,1 @@
+Before biology, make all chemistry, alchemy, and magic possible, by changing the [[Worldbuilding/1. Science/1.2. Physics/1.2.1. Laws|1.2.1. Laws]] of physics and [[Worldbuilding/1. Science/1.1. Cosmology/1.1.3. Laws|1.1.3. Laws]] of metaphysics / cosmology.

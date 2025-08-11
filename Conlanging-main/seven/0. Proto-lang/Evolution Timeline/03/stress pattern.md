@@ -1,0 +1,5 @@
+1. S
+2. US
+3. SUU
+4. USUs
+5. UUSUs

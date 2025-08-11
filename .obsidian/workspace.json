@@ -4,41 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a542ffa3a223fe",
+        "id": "290e6f371db374ce",
         "type": "tabs",
         "children": [
           {
-            "id": "eabd95a1847686d5",
+            "id": "f367775763d23868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlanging-main/TCR1/Evolution Timeline/01.-10c/Grammar/Irregular words.md",
+                "file": "Conlanging-main/seven/3. CHR/1/grammar.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Irregular words"
-            }
-          },
-          {
-            "id": "b1cb79623c8a1135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IRL/Daily Ideas/11.08.2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "11.08.2025"
+              "title": "grammar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,49 +223,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f590df61031b21fd",
+  "active": "f367775763d23868",
   "lastOpenFiles": [
-    "Templates/Week.md",
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1.3. Laws.md",
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1.2. Planes.md",
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1.1. Hierarchy.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.1. Associations.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4. Processes.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Chronum.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Visium.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Sanitium.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Sanguum.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Resonium.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Piscium.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Fortiferum.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes/Ore calcination.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes/Tea Brewing.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes/Glass tinting.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes/Carbon alloying.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes/Coenzyme Substitution, Enzymatic Scenting.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes/Dyeing.md",
+    "Worldbuilding/1. Science/1.2. Physics/1.2.1. Laws.md",
+    "Worldbuilding/1. Science/1.2. Physics/1.2.2. Notes.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Tinctorate.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Pharmate.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Mixide.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Mechanide.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Biotate.md",
+    "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements/Animide.md",
+    "Worldbuilding/1. Science/1.1. Cosmology/1.1.4. Levels of life",
+    "Worldbuilding/1. Science/1.2. Physics/1.2.3 Machines",
     "Worldbuilding/1. Science/1.3. Chemistry/1.3.4 Elements",
     "Worldbuilding/1. Science/1.3. Chemistry/1.3.3. Processes",
-    "IRL/Daily Ideas/07.08.2025.md",
-    "IRL/Daily Ideas/06.08.2025.md",
-    "IRL/Daily Ideas/05.08.2025.md",
-    "IRL/Daily Ideas/04.08.2025.md",
-    "IRL/Daily Ideas/03.08.2025.md",
-    "IRL/Daily Ideas/29.07.2025.md",
-    "IRL/Daily Ideas/28.07.2025.md",
-    "IRL/Daily Ideas/27.07.2025.md",
-    "IRL/Daily Ideas/26.07.2025.md",
-    "IRL/Daily Ideas/25.07.2025.md",
-    "IRL/Daily Ideas/24.07.2025.md",
-    "IRL/Daily Ideas/23.07.2025.md",
-    "IRL/Daily Ideas/20.07.2025.md",
-    "IRL/Daily Ideas/18.07.2025.md",
-    "IRL/Daily Ideas/17.07.2025.md",
-    "IRL/Daily Ideas/14.07.2025.md",
-    "Old/General/Physics/Cosmology/Plane Alignment.png",
-    "Old/General/Chemistry/Tables/Element property chart.md",
-    "Old/Tables/Element property chart.md",
-    "Old/General/Chemistry/Tables/Energy change chart.md",
-    "Old/General/Chemistry/Tables/Obtaining chart.md",
-    "Old/General/Physics/Cosmology/Plane Alignment.md",
-    "Old/Physics/Cosmology/Plane Alignment.md",
-    "Old/General/Chemistry/Metaphysics/Cogitine.md",
-    "Old/General/Chemistry/Groups/Ascendents.md",
-    "Old/General/Chemistry/Groups/Descendents.md",
-    "Old/General/Chemistry/Metaphysics",
-    "Old/General/Physics/Cosmology",
-    "Old/General/Chemistry/Tables",
-    "Old/General/Chemistry/Groups",
-    "Old/General/Chemistry",
-    "Old/General/Diseases",
-    "Old/General/Physics",
-    "Old/General",
-    "IRL/Notes/Progression.canvas",
-    "Old/Physics/Cosmology/Plane Alignment.png",
+    "Worldbuilding/1. Science/1.4. Biology",
+    "Worldbuilding/1. Science/1.3. Chemistry",
+    "Worldbuilding/1. Science/1.2. Physics",
+    "Worldbuilding/1. Science/1.1. Cosmology",
+    "Worldbuilding/0. Concepts/0.Y Seven",
     "Worldbuilding/0. Concepts/0.C Systems.canvas",
     "Worldbuilding/0. Concepts/0.B Progression.canvas",
+    "Worldbuilding/1. Science",
+    "Old/General/Physics/Cosmology/Plane Alignment.png",
+    "IRL/Notes/Progression.canvas",
+    "Old/Physics/Cosmology/Plane Alignment.png",
     "Timelines/Worldbuilding/0. Concepts/0.C Systems.canvas",
     "Timelines/Worldbuilding/0. Concepts/0.B Progression.canvas",
     "Worldbuilding/0. Concepts/Systems.canvas",
